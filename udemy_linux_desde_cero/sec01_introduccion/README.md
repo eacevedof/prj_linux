@@ -4,6 +4,9 @@
 ## 2. Introducción e historia de linux
 - Caracteristicas
   - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/821x387/ded346e1d4ac9269c1cc487eba952c40/image.png)
+- ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/953x531/4382ad553ae9b70cbe41f8c29a367253/image.png)
+- Se ha liberado la versión 4
+- El pingüino se llama TUX :x 
 ## 3. Distribuciones de Linux
 - 
 ```js
