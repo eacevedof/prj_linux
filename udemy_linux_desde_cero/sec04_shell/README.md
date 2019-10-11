@@ -54,8 +54,6 @@ drwxr-xr-x 1 ioedu 197121   0 oct. 11 22:02 sec04_shell
 - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/766x323/3c0b93140c4c671af76af68c4a6aa874/image.png)
 - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/793x352/6a0775c3e8da9ec525a5cc587e1bae5d/image.png)
 - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/817x412/1d2abcfc28f982f9f39e76a9efb4a7ad/image.png)
-```js
-```
 ## 
 - 
 ```js
