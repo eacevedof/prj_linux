@@ -1,9 +1,7 @@
 # [seccion 4: Shell](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13358528#overview)
 
 ## 1. Presentación de la sección
-- 
-```js
-```
+- Pasos como movernos por la shell
 ## 
 - 
 ```js
