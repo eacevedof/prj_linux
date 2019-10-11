@@ -8,10 +8,8 @@
 - Cada usuario tiene una shell asignada
 ## [3. Como conectarnos a Linux: Escritorio, terminal, acceso](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13275942#overview)
 - PuTTy (Tty es el terminal)
-## 
-- 
-```js
-```
+## [4. Abrir terminal](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13226910#overview)
+- Botón derecho > abrir terminal
 ## 
 - 
 ```js
