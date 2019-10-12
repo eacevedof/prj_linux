@@ -8,12 +8,8 @@
   - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/812x479/e4545cc0ecac8c3e1e6a2f12fdac577a/image.png)
 - Sistema de ficheros
   - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/624x328/5bd645552de9cde0e5507a8ff4b7561a/image.png)
-```js
-```
-## 3.
-- 
-```js
-```
+## [3. Comandos pwd y ls](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13226336#overview)
+- **cmd**: **`pdw y ls`**
 ## 4.
 - 
 ```js
