@@ -2,8 +2,12 @@
 
 ## [1. Presentación de la sección](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13334200#overview)
 
-## 2.
-- 
+## [2. Sistema de ficheros en Linux](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13226334#overview)
+- En Unix las particiones y los discos están representados como directorios
+- Arbol de directorios
+  - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/812x479/e4545cc0ecac8c3e1e6a2f12fdac577a/image.png)
+- Sistema de ficheros
+  - ![](https://trello-attachments.s3.amazonaws.com/5da0d7fb764b8b74e4c44bc9/624x328/5bd645552de9cde0e5507a8ff4b7561a/image.png)
 ```js
 ```
 ## 3.
