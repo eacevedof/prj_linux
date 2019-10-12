@@ -101,10 +101,55 @@ drwxr-xr-x 12 root root 4096 Apr  8  2016 ..
 //moverse al directorio actual, es quedarse en el mismo :)
 ```
 
-## 6.
-- 
-```js
+## [21 - 6.Comando man](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13238326#overview)
+- comando de documentación
+- toda la doc se presenta con este comando
+- ejemplo: `man <nombre-del-comando>` **`man pwd`**
+- se puede usar las teclas: **b** (de back) y **f** de (forward) para movernos en el doc
+- para buscar algo dentro de man: **/**
+- Secciones de los comandos:
+  ```js
+  1   Executable programs or shell commands
+  2   System calls (functions provided by the kernel)
+  3   Library calls (functions within program libraries)
+  4   Special files (usually found in /dev)
+  5   File formats and conventions eg /etc/passwd
+  6   Games
+  7   Miscellaneous (including macro packages and conventions), e.g. man(7), groff(7)
+  8   System administration commands (usually only for root)
+  9   Kernel routines [Non standard]
+  ```
+- `man 3 getcwd`  `man <seccion> <nombre-del-comando>`
+  - Puede que no cargue la documentación hasta que no se instala la app
 
+- Ejemplos
+```js
+//man top
+MAN(1) //indica a que sección pertenece el comando "top"
+NAME
+       top - display Linux processes
+
+SYNOPSIS
+       top -hv|-bcHiOSs -d secs -n max -u|U user -p pid -o fld -w [cols]
+
+       The traditional switches `-' and whitespace are optional.
+
+DESCRIPTION
+       The  top program provides a dynamic real-time view of a running system.  It can display system summary information as well as a list of processes or threads currently being man‐
+       aged by the Linux kernel.  The types of system summary information shown and the types, order and size of information displayed for 
+       ...
+OVERVIEW
+   Documentation
+       The remaining Table of Contents
+
+           OVERVIEW
+              Operation
+              Startup Defaults
+              Linux Memory Types
+           1. COMMAND-LINE Options
+...
+
+//man man
 ```
 ## 7.
 - 
