@@ -101,7 +101,7 @@ drwxr-xr-x 12 root root 4096 Apr  8  2016 ..
 //moverse al directorio actual, es quedarse en el mismo :)
 ```
 
-## [21 - 6.Comando man](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13238326#overview)
+## [6.Comando man - 21](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13238326#overview)
 - comando de documentación
 - toda la doc se presenta con este comando
 - ejemplo: `man <nombre-del-comando>` **`man pwd`**
