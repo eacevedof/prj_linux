@@ -12,10 +12,9 @@
 - **cmd**: **`pdw y ls`**
 ## [4. Comando cd](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13226338#overview)
 - **cd (a secas)** te lleva a tu home
-## 5.
-- 
-```js
-```
+## [5. Practicas comando cd](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13238272#overview)
+- [práctica pdf comando cd](https://a2.udemycdn.com/2019-02-15_13-16-25-7f9c5aef2b39498d052584b5a32057fe/original.pdf?nva=20191012112205&download=True&filename=cd.pdf&token=0c77be799fa8ea0f9d950)
+
 ## 6.
 - 
 ```js
