@@ -6,7 +6,10 @@
 - No se verán todos los comandos
 - Sergio mostrará una serie de comandos que considera útiles que son muy usados en el ámbito laboral.
 ### [43. Manejar el comando "cd" de forma eficiente 8 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13371532#overview)
--
+```s
+~ 		lleva a la home
+cd - 	lleva al directorio anterior
+```
 ### [44. Completar comandos automáticamente 6 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13265432#overview)
 -
 ### [45. History 5 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13265436#overview)
