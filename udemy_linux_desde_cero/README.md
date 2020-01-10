@@ -12,7 +12,8 @@ cd - 	lleva al directorio anterior
 # es mejor cd practicas/ que cd practicas ya que la barra le dice a linux que busque solo directorios
 ```
 ### [44. Completar comandos automáticamente 6 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13265432#overview)
--
+- La tabulación autorrellena
+- la doble tabulacion lista todas las coincidencias
 ### [45. History 5 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13265436#overview)
 -
 ### [46. Trabajar con múltiples sesiones 5 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13341146#overview)
