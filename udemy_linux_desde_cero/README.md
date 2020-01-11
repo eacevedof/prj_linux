@@ -22,7 +22,14 @@ cd - 	lleva al directorio anterior
 - history -d 4  borra el 4
 - 
 ### [46. Trabajar con múltiples sesiones 5 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13341146#overview)
--
+- Solo en linux. Con las teclas: **alt + ctrl + f3**
+- Abre un terminal que pide un login y contraseña
+- Si se incia sesion con el mismo usuario abre otra sesion
+- Con **alt + ctrl + f2** se vuelve a xwindows (sesión anterior)
+- Con **ctrl + alt + f4** entra en otra sesion
+- **who**
+  - Permite ver todas las sesiones de los usuarios en la computadora
+  - Emula una conexión remota (como el remote administrator de windows)
 ### [47. Uso del editor gedit 4 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13357930#overview)
 -
 ### [48. Prácticas de la sección 1 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13782796#overview)
