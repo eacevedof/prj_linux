@@ -31,6 +31,6 @@ cd - 	lleva al directorio anterior
   - Permite ver todas las sesiones de los usuarios en la computadora
   - Emula una conexión remota (como el remote administrator de windows)
 ### [47. Uso del editor gedit 4 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13357930#overview)
--
+-  Comenta que usaremos gedit de forma didactica hasta que aprendamos a usar vi
 ### [48. Prácticas de la sección 1 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13782796#overview)
--
+- 
