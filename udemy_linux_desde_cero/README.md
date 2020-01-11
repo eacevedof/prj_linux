@@ -15,7 +15,12 @@ cd - 	lleva al directorio anterior
 - La tabulación autorrellena
 - la doble tabulacion lista todas las coincidencias
 ### [45. History 5 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13265436#overview)
--
+- comando **history**
+- !<comando> ejecuta el ultimo comando del historial
+- !<numero-history> ejecuta el comando asociado al numero
+- history -c borra el historial
+- history -d 4  borra el 4
+- 
 ### [46. Trabajar con múltiples sesiones 5 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13341146#overview)
 -
 ### [47. Uso del editor gedit 4 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13357930#overview)
