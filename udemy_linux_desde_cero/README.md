@@ -34,3 +34,15 @@ cd - 	lleva al directorio anterior
 -  Comenta que usaremos gedit de forma didactica hasta que aprendamos a usar vi
 ### [48. Prácticas de la sección 1 min](https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/learn/lecture/13782796#overview)
 - 
+### Sección 7: Otros comandos interesantes de Linux 3 / 9|32 min
+### [49. Presentación de la sección 2 min]()
+### [50. Comandos internos y externos. Comando type 5 min]()
+### [51. Buscar ficheros: which y whereis 4 min]()
+### [52. Crear comandos con Alias 3 min]()
+### [53. Averiguar cuanto tarda una operación: Comando time 3 min]()
+### [54. Calendario 3 min]()
+### [55. Ver y cambiar la fecha 8 min]()
+### [56. Tiempo de funcionamiento del sistema y los usuarios: comandos upti… 3 min]()
+### [57. Prácticas de la sección 1 min]()
+```s
+```
